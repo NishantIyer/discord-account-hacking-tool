@@ -29,9 +29,9 @@ This script is for educational purposes. I am in no way responsible for any inco
 
 # Credits
 Made By Nishant Iyer
-Additional Identity will remain disclosed
 
-#Reminder
+
+# Reminder
 #PLEASE DO NOT USE THIS REPO FOR MALICIOUS INTENTS OR ISTG YOU'LL LAND INTO TROUBLE
 #AGAIN THIS IS FOR EDUCATIONAL PURPOSES ONLY!!!
 
